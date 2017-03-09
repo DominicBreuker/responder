@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   var chatWindow = function() {
     var getRandomName = function() {
-      var names = ["Rudi", "Andreas", "Anil", "Dominic"];
+      var names = ["William Berger", "Tobias Moretti", "Heikko Deutschmann", "Dietmar Schonherr"];
       return names[Math.floor(Math.random() * names.length)];
     };
 
