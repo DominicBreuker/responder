@@ -1,0 +1,188 @@
+[
+  {
+    "name": "show_help",
+    "messages": [
+      "Was kannst du",
+      "Sag mir was du kannst",
+      "Was kann ich mit dir machen",
+      "Wie kannst du mir helfen",
+      "Was kannst du für mich tun",
+      "Was kannst du alles machen",
+      "Was kann ich hier tun",
+      "Zeige mir die Hilfe",
+      "Hilfe",
+      "Help",
+      "Zeige mir die Hilfe an"
+    ],
+    "response": "Bitte drücken Sie sich etwas spezifischer aus. Können Sie das Problem eingrenzen?..."
+  },
+  {
+    "name": "contact_methods_phone",
+    "messages": [
+      "Kann man Sie telefonisch erreichen?",
+      "Ich würde sie gern telefonisch kontaktieren. Bitte nennen Sie mir die Nummer",
+      "Bitte geben Sie mir doch noch eben schnell die Telefonnummer.",
+      "Ihre Telefonnummer bitte",
+      "Telefonnummer",
+      "Eine Kontaktmöglichkeit per Telefon wäre mir am liebsten!",
+      "Gib mir die Nummer",
+      "Ich wünsche telefonischen Kontakt"
+    ],
+    "response": "No problemo! Hier ist die Nummer..."
+  },
+  {
+    "name": "contact_methods_email",
+    "messages": [
+      "Bitte geben Sie mir Ihre Email adresse",
+      "Ich möchte das gerne per Mail klären. Wie ist die Adresse?",
+      "Ich würde gern per Mail einige wichtige Dokumente einreichen. Wie ist die Adresse?",
+      "Wenn sie Sie per Mail wegen einer Kreditanfrage kontaktieren möchte, welche Adresse sollte ich dann nehmen?",
+      "Kann ich Sie per Email erreichen?",
+      "Ich will eine Email schicken.",
+      "Email",
+      "Email-Adresse"
+    ],
+    "response": "Wir sind rund um die Uhr per Email erreichbar. Hier ist die Adresse..."
+  },
+  {
+    "name": "make_appointment",
+    "messages": [
+      "Ich würde gerne einen Termin vor Ort in Ihrer Filiale ausmachen!"
+    ],
+    "response": "Gerne vereinbaren wir einen persönlichen Termin..."
+  },
+  {
+    "name": "find_nearest_branch",
+    "messages": [
+      "Ich suche eine Filiale in meiner Nähe"
+    ],
+    "response": "Die nächste Filiale ist nicht weit..."
+  },
+  {
+    "name": "sepa_information",
+    "messages": [
+      "Können Sie mir wohl sagen, was eine SEPA Überweisung ist?"
+    ],
+    "response": "SEPA ist ein vereinheitlichtes internationales Zahlungsverfahren..."
+  },
+  {
+    "name": "tan_information",
+    "messages": [
+      "Welche TAN-Verfahren bietet Ihre Bank an?"
+    ],
+    "response": "Wir haben folgende TAN-Verfahren im Angebot..."
+  },
+  {
+    "name": "product_info_all",
+    "messages": [
+      "Welche Produkte bietet Ihre Bank an. Bitte geben Sie mir eine Übersicht!"
+    ],
+    "response": "Wir bieten folgende Produkte an..."
+  },
+  {
+    "name": "product_info_loan",
+    "messages": [
+      "Ich benötige einen Kredit! Was können Sie mir anbieten?"
+    ],
+    "response": "Klar können Sie einen Kredit bekommen! Wieviel darf es denn sein..."
+  },
+  {
+    "name": "product_info_account",
+    "messages": [
+      "Ich bin auf der Suche nach einen Girokonto. Haben Sie sowas?"
+    ],
+    "response": "Ein Konto eröffnen ist kinderleicht..."
+  },
+  {
+    "name": "product_info_credit_card",
+    "messages": [
+      "Beinhaltet ihr Girokonto eine Kreditkarte?"
+    ],
+    "response": "Folgende Kreditkarten haben wir im Angebot..."
+  },
+  {
+    "name": "account_fees",
+    "messages": [
+      "Was muss ich für ein Konto bei ihnen an Gebühren zahlen?"
+    ],
+    "response": "Unsere Gebühren sind extrem konkurrenzfähig..."
+  },
+  {
+    "name": "guide_account_opening",
+    "messages": [
+      "Ich würde gern ein Konto in ihrem Haus eröffnen. Wie geht das?"
+    ],
+    "response": "Kontoeröffnung? In 3 einfachen Schritten zu ihrem Traumkonto..."
+  },
+  {
+    "name": "guide_card_blocking",
+    "messages": [
+      "Hilfe! Meine Kreditkarte wurde geklaut! Wie kann ich die sperrren?"
+    ],
+    "response": "Kreditkarte weg? Einfach unter folgender Nummer sperren..."
+  },
+  {
+    "name": "guide_mobile_banking",
+    "messages": [
+      "Ich würde mein Konto gerne mobil mit dem Handy nutzen. Was muss ich dafür tun?"
+    ],
+    "response": "Mobile Banking steht bei uns an erster Stelle. Hier ist die App..."
+  },
+  {
+    "name": "request_branch_banking",
+    "messages": [
+      "Obwohl ich mich per Chat melde muss ich gestehen, dass mir das Digitale nicht so liegt. Ich bin da eher der Klassiker unter den Kunden. Kann ich bei ihnen auch in die Filiale kommen?"
+    ],
+    "response": "Leider sind wir eine Direktbank und haben keinerlei Filialen..."
+  },
+  {
+    "name": "guide_get_loan",
+    "messages": [
+      "Ich brauche dringend eine Finanzspritze. Können sie mir aus der Patsche helfen?"
+    ],
+    "response": "Kein Problem! dank der Zentralbankpolitik bekommt bei uns jeder Kredit..."
+  },
+  {
+    "name": "account_switching_support",
+    "messages": [
+      "Ich würde mein Girokonto gerne zu Ihnen umziehen. Können Sie mich dabei unterstützen?"
+    ],
+    "response": "Account-Wechsel leicht gemacht: unsere Berater stellen alle ihre Daueraufträge und Einzugsermächtigungen um..."
+  },
+  {
+    "name": "online_banking_security",
+    "messages": [
+      "Im Internet herrschen ja anarchische Zustände. Wie sicher ist Ihr Online-Banking System?"
+    ],
+    "response": "Unsere Systeme sind nach neusten Sicherheitsstandards gebaut..."
+  },
+  {
+    "name": "risk_money_loss",
+    "messages": [
+      "Heutzutage fallen die Banken ja wie die Fliegen? Was passiert mit meinem Geld, wenn sie pleite gehen?"
+    ],
+    "response": "Die Einlagensicherung schützt sie vor einem finanziellen Verlust..."
+  },
+  {
+    "name": "guide_kyc",
+    "messages": [
+      "Sie haben mich dazu aufgefordert, im Rahmen einer Kontoeröffnung das PostIdent-Verfahren zu durchlaufen? Ich habe einen Brief erhalten, weiß aber nicht, was ich jetzt tun soll."
+    ],
+    "response": "Das PostIdent-Verfahren funktioniert folgendermaßen..."
+  },
+  {
+    "name": "update_personal_info",
+    "messages": [
+      "Meine Adresse hat sich geändert. Das würde ich Ihnen gern mitteilen."
+    ],
+    "response": "Persönliche Daten können sie im Online-Banking-System oder unter folgender Email-Adresse ändern..."
+  },
+  {
+    "name": "request_account_balance",
+    "messages": [
+      "Wie ist mein Kontostand?"
+    ],
+    "response": "Aus Sicherheitsgründen kann ich Ihren Kontostand hier nicht preisgeben..."
+  }
+
+]

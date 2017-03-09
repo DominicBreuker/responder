@@ -1,0 +1,17 @@
+{
+  "name": "thoth",
+  "version": "0.0.1",
+  "description": "An omniscient pubnub client listening to messages and putting in it's two cents.",
+  "dependencies": {
+    "apiai": "3.0.3",
+    "body-parser": "1.16.1",
+    "express": "4.10.2",
+    "moment": "2.17.1",
+    "pubnub": "4.4.3",
+    "uuid": "3.0.1",
+    "request": "2.79.0",
+    "passport": "0.3.2",
+    "passport-http": "0.3.0",
+    "promise": "7.0.2"
+  }
+}
